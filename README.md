@@ -20,7 +20,7 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 ### 💼 Experience
 
 - **Software Engineer @ JennaAI** *(Jan 2026 – Present)* — Early engineer at an investor-backed fintech startup. Shipped core features across React/TypeScript, Django, PostgreSQL, and Azure; integrated Plaid for 180+ linked accounts and 22K+ transactions; helped scale to 500 MAU in 2 months.
-Software Engineer @ NN Life Insurance (Tokyo · co-op) — Built a multi-component LLM system for an internal finance assistant: natural-language → DAX over Power BI (XMLA), a RAG pipeline over 1k+ documents with RBAC-aware retrieval and prompt-injection defenses, plus automated reporting.
+- **Software Engineer @ NN Life Insurance (Tokyo · co-op) — Built a multi-component LLM system for an internal finance assistant: natural-language → DAX over Power BI (XMLA), a RAG pipeline over 1k+ documents with RBAC-aware retrieval and prompt-injection defenses, plus automated reporting.
 - **Cybersecurity Consultant @ CGI** *(co-op)* — Security assessments across 6 systems; documented 8+ medium/high-risk findings with remediation guidance.
 - **Forensics Analyst @ Shared Services Canada** *(Gov. of Canada · co-op)* — Supported 20+ digital forensics investigations across high-sensitivity government environments.
 
