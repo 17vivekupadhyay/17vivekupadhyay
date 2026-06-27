@@ -63,7 +63,7 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-**Focus areas:** AI/LLM agents · RAG pipelines · application & network security · backend engineering
+**Focus areas:** AI/LLM security (RAG injection, prompt-injection defense) · LLM agents & pipelines · application & network security · backend engineering
 
 ---
 
