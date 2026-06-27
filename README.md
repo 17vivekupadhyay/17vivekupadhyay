@@ -1,8 +1,10 @@
 # Hi, I'm Vivek 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=17vivekupadhyay&color=blue&style=flat)
+
 Computational Mathematics student at the **University of Waterloo**, working at the intersection of **software engineering, AI systems, and security**. Currently seeking **new-grad / internship** opportunities.
 
-I've shipped production features at a fintech startup, built RAG pipelines and an MCP server in enterprise finance, and worked in security forensics and consulting. I like building practical tools — LLM/RAG agents, security testing platforms, and network forensics systems — with an emphasis on clean architecture and tested code.
+I've shipped production features at a fintech startup, built RAG pipelines and a natural-language analytics backend in enterprise finance, and worked in security forensics and consulting. I like building practical tools — LLM/RAG agents, security testing platforms, and network forensics systems — with an emphasis on clean architecture and tested code.
 
 🌐 [vivekupadhyay.com](https://vivekupadhyay.netlify.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/17vivekupadhyay/) · ✍️ [Substack](https://substack.com/@17vivekupadhyay) · 📍 Toronto, ON
 
@@ -19,10 +21,10 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 
 ### 💼 Experience
 
-- **Software Engineer @ JennaAI** *(Toronto)* — Early engineer at an investor-backed fintech startup. Shipped core features across React/TypeScript, Django, PostgreSQL, and Azure; integrated Plaid for 180+ linked accounts and 22K+ transactions; helped scale to 500 MAU in 2 months.
-- **Software Engineer @ NN Life Insurance** *(Tokyo - co-op)* — Built a multi-component LLM system for an internal finance assistant: natural-language → DAX over Power BI (XMLA), a RAG pipeline over 1k+ documents with RBAC-aware retrieval and prompt-injection defenses, plus automated reporting.
-- **Cybersecurity Consultant @ CGI** *(Toronto - co-op)* — Security assessments across 6 systems; documented 8+ medium/high-risk findings with remediation guidance.
-- **Forensics Analyst @ Shared Services Canada** *(Gov. of Canada - co-op)* — Supported 20+ digital forensics investigations across high-sensitivity government environments.
+- **Software Engineer @ JennaAI** *(Jan 2026 – Present)* — Early engineer at an investor-backed fintech startup. Shipped core features across React/TypeScript, Django, PostgreSQL, and Azure; integrated Plaid for 180+ linked accounts and 22K+ transactions; helped scale to 500 MAU in 2 months.
+- **Software Engineer @ NN Life Insurance** *(Tokyo · co-op)* — Built a natural-language analytics backend (text-to-DAX over Power BI via XMLA) and a RAG pipeline over 1k+ finance documents with RBAC-aware retrieval and prompt-injection defenses.
+- **Cybersecurity Consultant @ CGI** *(co-op)* — Security assessments across 6 systems; documented 8+ medium/high-risk findings with remediation guidance.
+- **Forensics Analyst @ Shared Services Canada** *(Gov. of Canada · co-op)* — Supported 20+ digital forensics investigations across high-sensitivity government environments.
 
 ---
 
@@ -63,13 +65,23 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-**Focus areas:** AI/LLM security (RAG injection, prompt-injection defense) · LLM agents & pipelines · application & network security · backend engineering
+**Focus areas:** AI/LLM agents · RAG pipelines · application & network security · backend engineering
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=17vivekupadhyay&show_icons=true&hide_border=true&hide_rank=true)
+
+---
+
+### 🎓 Certifications
+
+- **Secret (Level II) Security Clearance** — Government of Canada
+- **Google Cybersecurity Professional Certificate**
+- **Microsoft Certified: Security, Compliance & Identity Fundamentals (SC-900)**
+- **Machine Learning Specialization** — DeepLearning.AI
+- **IBM Data Science Specialization**
 
 ---
 
