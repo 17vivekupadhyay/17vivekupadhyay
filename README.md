@@ -4,7 +4,7 @@ Computational Mathematics student at the **University of Waterloo**, working at 
 
 I've shipped production features at a fintech startup, built RAG pipelines and an MCP server in enterprise finance, and worked in security forensics and consulting. I like building practical tools — LLM/RAG agents, security testing platforms, and network forensics systems — with an emphasis on clean architecture and tested code.
 
-🌐 [vivekupadhyay.com](https://www.vivekupadhyay.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/17vivekupadhyay/) · ✍️ [Substack](https://substack.com/@17vivekupadhyay) · 📍 Brampton, ON
+🌐 [vivekupadhyay.com](https://vivekupadhyay.netlify.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/17vivekupadhyay/) · ✍️ [Substack](https://substack.com/@17vivekupadhyay) · 📍 Toronto, ON
 
 ---
 
@@ -14,6 +14,15 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 - **[PinPointer](https://github.com/17vivekupadhyay/PinPointer)** — Network forensics platform: live traffic capture via tshark, connection fingerprinting, and animated attack-flow visualization on a world map.
 - **[portswigger-labs](https://github.com/17vivekupadhyay/portswigger-labs)** — Walkthroughs and solutions for the PortSwigger Web Security Academy.
 - **[leetcode](https://github.com/17vivekupadhyay/leetcode)** — Data structures & algorithms practice.
+
+---
+
+### 💼 Experience
+
+- **Software Engineer @ JennaAI** *(Jan 2026 – Present)* — Early engineer at an investor-backed fintech startup. Shipped core features across React/TypeScript, Django, PostgreSQL, and Azure; integrated Plaid for 180+ linked accounts and 22K+ transactions; helped scale to 500 MAU in 2 months.
+- **Software Engineer @ NN Life Insurance** *(Tokyo · co-op)* — Built a Power BI MCP server and a RAG pipeline over 1k+ finance documents with RBAC-aware retrieval and prompt-injection defenses.
+- **Cybersecurity Consultant @ CGI** *(co-op)* — Security assessments across 6 systems; documented 8+ medium/high-risk findings with remediation guidance.
+- **Forensics Analyst @ Shared Services Canada** *(Gov. of Canada · co-op)* — Supported 20+ digital forensics investigations across high-sensitivity government environments.
 
 ---
 
@@ -68,4 +77,4 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/17vivekupadhyay/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@17vivekupadhyay)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=aboutdotme&logoColor=white)](https://www.vivekupadhyay.com/)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=aboutdotme&logoColor=white)](https://vivekupadhyay.netlify.app/)
