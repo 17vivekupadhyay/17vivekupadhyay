@@ -69,12 +69,6 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 
 ---
 
-### 📊 GitHub Stats
-
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=17vivekupadhyay&show_icons=true&hide_border=true) 
-
----
-
 ### 🎓 Certifications
 
 - **Secret (Level II) Security Clearance** — Government of Canada
