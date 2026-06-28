@@ -71,7 +71,7 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 
 ### 📊 GitHub Stats
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=17vivekupadhyay&show_icons=true&hide_border=true&hide_rank=true)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=17vivekupadhyay&show_icons=true&hide_border=true) 
 
 ---
 
