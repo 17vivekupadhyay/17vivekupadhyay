@@ -4,7 +4,7 @@
 
 Computational Mathematics student at the **University of Waterloo**, working at the intersection of **software engineering, AI systems, and security**. Currently seeking **new-grad / internship** opportunities.
 
-I've shipped production features at a fintech startup, built RAG pipelines and a natural-language analytics backend in enterprise finance, and worked in security forensics and consulting. I like building practical tools — LLM/RAG agents, security testing platforms, and network forensics systems — with an emphasis on clean architecture and tested code.
+I've shipped production features at a fintech startup, built RAG pipelines and a natural-language analytics backend in enterprise finance, and worked in security forensics and consulting. I like building practical tools — LLM/RAG agents, LLM/RAG red-team tooling and targets, and network forensics systems — with an emphasis on clean architecture and tested code.
 
 🌐 [vivekupadhyay.com](https://vivekupadhyay.netlify.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/17vivekupadhyay/) · ✍️ [Substack](https://substack.com/@17vivekupadhyay) · 📍 Toronto, ON
 
@@ -12,11 +12,12 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 
 ### 🔧 What I'm working on
 
-- **[VectorGuard](https://github.com/17vivekupadhyay/VectorGuard)** — Defensive security toolkit for LLM/RAG apps. LLM-driven web agent with RAG grounding, OWASP-mapped attack suites, and a pytest test suite. *(SWE + AI + Security)*
+- **[VectorGuard](https://github.com/17vivekupadhyay/VectorGuard)** — Defensive security toolkit for LLM/RAG apps. LLM-driven web agent with RAG grounding, OWASP-mapped attack suites (paired with the InjectionRange target), and a pytest test suite. *(SWE + AI + Security)*
 - **[InjectionRange](https://github.com/17vivekupadhyay/InjectionRange)** — Production-grade RAG pipeline built as a purpose-built red-team target for VectorGuard. Hybrid vector + BM25 retrieval with reciprocal-rank fusion, reranking, citations, and recall@k/MRR eval — plus a toggleable `naive`/`hardened` mode that turns prompt-injection defense into a measurable before/after (0/18 → 18/18 OWASP-LLM attack cases defended, gated in CI). *(SWE + AI + Security)*
 - **[PinPointer](https://github.com/17vivekupadhyay/PinPointer)** — Network forensics platform: live traffic capture via tshark, connection fingerprinting, and animated attack-flow visualization on a world map.
 - **[portswigger-labs](https://github.com/17vivekupadhyay/portswigger-labs)** — Walkthroughs and solutions for the PortSwigger Web Security Academy.
 - **[leetcode](https://github.com/17vivekupadhyay/leetcode)** — Data structures & algorithms practice.
+
 ---
 
 ### 💼 Experience
