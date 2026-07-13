@@ -1,7 +1,5 @@
 # Hi, I'm Vivek 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=17vivekupadhyay&color=blue&style=flat)
-
 Computational Mathematics student at the **University of Waterloo**, working at the intersection of **software engineering, AI systems, and security**. Currently seeking **new-grad / internship** opportunities.
 
 I've shipped production features at a fintech startup, built RAG pipelines and a natural-language analytics backend in enterprise finance, and worked in security forensics and consulting. I like building practical tools — LLM/RAG agents, LLM/RAG red-team tooling and targets, and network forensics systems — with an emphasis on clean architecture and tested code.
