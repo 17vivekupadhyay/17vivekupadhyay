@@ -18,12 +18,10 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 
 ### 💼 Experience
 
-- **Software Engineer @ JennaAI** *(Jan 2026 – Present)* — Early engineer at an investor-backed fintech startup. Shipped core features across React/TypeScript, Django, PostgreSQL, and Azure; integrated Plaid for 180+ linked accounts and 22K+ transactions; helped scale to 500 MAU in 2 months.
-- **Software Engineer @ NN Life Insurance** *(Tokyo · co-op)* — Built a natural-language analytics backend (text-to-DAX over Power BI via XMLA) and a RAG pipeline over 1k+ finance documents with RBAC-aware retrieval and prompt-injection defenses.
-- **Cybersecurity Consultant @ CGI** *(co-op)* — Security assessments across 6 systems; documented 8+ medium/high-risk findings with remediation guidance.
-- **Forensics Analyst @ Shared Services Canada** *(Gov. of Canada · co-op)* — Supported 20+ digital forensics investigations across high-sensitivity government environments.
-
----
+- **AI Software Engineer @ NN Life Insurance** *(Tokyo · May – Dec 2025)* — Built a bilingual multi-agent finance platform for 30+ quants and analysts, integrating Power BI/DAX, Oracle, SAP Ariba, and agentic RAG. Cut response latency from ~15s to 3.5s, built a 7-judge LLM evaluation pipeline, and deployed Azure infrastructure used across multiple teams.
+- **Software Engineer @ Squirll Digital** *(Dec 2024 – May 2025)* — Built and shipped a receipt-management platform for 100+ beta users using Django REST, Next.js, PostgreSQL, and Azure. Reduced receipt-processing latency from ~12s to 3s, added real-time WebSocket workflows, and load-tested the platform to 10K concurrent users.
+- **Cybersecurity Consultant @ CGI** *(May – Aug 2024)* — Performed source-assisted security testing and threat modeling across 3 Azure applications, identifying 5+ exploitable vulnerabilities using Burp Suite, OWASP WSTG, CWE, and CVSS. Validated remediations across application code, Azure RBAC, and Key Vault.
+- **Cybersecurity Forensics Analyst @ Shared Services Canada** *(Jan – Apr 2024)* — Analyzed 75+ forensic artifacts across 20+ investigations and built Azure/KQL workflows to centralize evidence, reducing manual investigative work by ~40%.
 
 ### 🛠️ Tech Stack
 
