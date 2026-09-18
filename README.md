@@ -13,7 +13,7 @@ I've shipped production features at a fintech startup, built RAG pipelines and a
 - **[VectorGuard](https://github.com/17vivekupadhyay/VectorGuard)** — Defensive security toolkit for LLM/RAG apps. LLM-driven web agent with RAG grounding, OWASP-mapped attack suites (paired with the InjectionRange target), and a pytest test suite. *(SWE + AI + Security)*
 - **[InjectionRange](https://github.com/17vivekupadhyay/InjectionRange)** — Production-grade RAG pipeline built as a purpose-built red-team target for VectorGuard. Hybrid vector + BM25 retrieval with reciprocal-rank fusion, reranking, citations, and recall@k/MRR eval — plus a toggleable `naive`/`hardened` mode that turns prompt-injection defense into a measurable before/after (0/18 → 18/18 OWASP-LLM attack cases defended, gated in CI). *(SWE + AI + Security)*
 - **[PinPointer](https://github.com/17vivekupadhyay/PinPointer)** — Network forensics platform: live traffic capture via tshark, connection fingerprinting, and animated attack-flow visualization on a world map.
-- **[CertWatch](https://github.com/17vivekupadhyay/CertWatch)**  — Watches public certificate logs in real time to catch phishing domains the moment they're created. Reads the live feed of every new HTTPS certificate, scores each domain for how closely it imitates a known brand (typos, lookalike characters, random-looking names), and flags the suspicious ones — checking whether each one is live yet or still being set up. Fully passive. (SWE + Security)
+- **[CertWatch](https://github.com/17vivekupadhyay/CertWatch)**  — Watches public certificate logs in real time to catch phishing domains the moment they're created. WIP (SWE + Security)
 ---
 
 ### 💼 Experience
